@@ -1,0 +1,36 @@
+# Eclipse stuff
+.classpath
+.directory
+.metadata
+.project
+.externalToolBuilders/
+.settings/
+target/
+
+# NetBeans stuff
+nb-configuration.xml
+nbactions*.xml
+faces-config.NavData
+
+# IntelliJ stuff
+.idea/
+*.iml
+atlassian-ide-plugin.xml
+
+# GWT stuff
+.gwt
+gwt-unitCache/
+
+# Temporary stuff
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+
+# Java stuff
+*.class
+*.jar
+*.war
+*.ear
+
